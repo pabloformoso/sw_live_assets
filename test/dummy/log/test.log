@@ -168,3 +168,27 @@ LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
 LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
 ------------------------------------------------------------------------
   [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
+------------------------------------------------------------------------
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------
+LiveAssetsTest: test_receives_timer_notifications
+-------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-------------------------------------------------
+LiveAssetsTest: test_receives_timer_notifications
+-------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction

@@ -9,10 +9,10 @@ class LiveAssets::SubscriberTest < ActiveSupport::TestCase
     queue << :reloadCSS
     queue << :ping
     queue << nil
-
+    
     subscriber = LiveAssets::SSESubscriber.new(queue)
-    stream = []
-
+    stream = []
+    
     subscriber.each do |msg|
       stream << msg
     end

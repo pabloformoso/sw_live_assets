@@ -38,16 +38,33 @@ module LiveAssets
   end  
 
   ##
-  # Start tje listener for the given directories sending an
+  # Start the listener for the given directories sending an
   # evento to the subscribers available.
   # 
   # @param [String] event
   # @param [Arrat] directories
+  # 
   def self.start_listener(event, directories)
     Thread.new do
       Listen.to(*directories, latency: 0.5) do |modified, added, removed|        
         subscribers.each { |s| s << event }
       end.start
+    end
+  end
+
+  ##
+  # Starts the timer to emmit pings to the client to keep
+  # conection alive.
+  # 
+  # @param [String] event
+  # @param [Integer] time
+  #  
+  def self.start_timer(event, time)
+    Thread.new do
+      while true
+        subscribers.each { |s| s << event }
+        sleep(time)
+      end
     end
   end
 

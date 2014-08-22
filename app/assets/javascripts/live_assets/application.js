@@ -13,4 +13,8 @@ window.onload = function() {
       document.head.appendChild(clone);
     });
   });
+
+  source.addEventListener('ping', function(e){
+    // Do some shit here
+  });
 }
