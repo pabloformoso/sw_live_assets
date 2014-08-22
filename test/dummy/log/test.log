@@ -1,0 +1,170 @@
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.5ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+Start listeting
+Removed suscriber
+  [1m[35m (0.2ms)[0m  rollback transaction
+Removed suscriber
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_existing_reloadCSS_events
+--------------------------------------------------------------
+Added suscriber
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+Start listeting
+Removed suscriber
+  [1m[35m (0.2ms)[0m  rollback transaction
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_existing_reloadCSS_events
+--------------------------------------------------------------
+Added suscriber
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_existing_reloadCSS_events
+--------------------------------------------------------------
+Added suscriber
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+Start listeting
+Removed suscriber
+  [1m[35m (0.2ms)[0m  rollback transaction
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+Start listeting
+Removed suscriber
+  [1m[35m (0.4ms)[0m  rollback transaction
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_existing_reloadCSS_events
+--------------------------------------------------------------
+Added suscriber
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+Thread running
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+--------------------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_existing_reloadCSS_events
+--------------------------------------------------------------
+Added suscriber
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+-----------------------------------------------------
+LiveAssetsTest: test_can_suscribe_to_listener_evenets
+-----------------------------------------------------
+Added suscriber
+Thread running
+Start listeting
+Removed suscriber
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+------------------------------------------------------------------------
+LiveAssets::SubscriberTest: test_yields_server_sent_events_from_the_queu
+------------------------------------------------------------------------
+  [1m[35m (0.1ms)[0m  rollback transaction
