@@ -1,2 +1,4 @@
 Rails.application.routes.draw do
-end
+  root to: "home#index"
+  get "/live_assets/:action", to: "live_assets"
+end 
